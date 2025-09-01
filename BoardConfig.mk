@@ -108,9 +108,6 @@ TW_NO_SCREEN_BLANK := true
 #TW_SCREEN_BLANK_ON_BOOT := true
 TW_DEVICE_VERSION := 1_physwizz
 
------------------
-
-On BoardConfig.mk
 
 TW_INCLUDE_FASTBOOTD := true
 
